@@ -12,6 +12,27 @@ body{
     scale: 5;
 }
 
+#img2{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5rem;
+    scale: 5;
+}
+
+#img3{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5rem;
+    scale: 5;
+}
+
+#img4{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5rem;
+    scale: 5;
+}
+
 button {
     border-radius: 10px;
     font-family: Montserrat;
